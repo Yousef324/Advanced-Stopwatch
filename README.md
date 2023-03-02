@@ -24,3 +24,8 @@
 
 #### SERVICES
 - TimersDelay
+
+# How to run the project
+1. Open MICROSHIP ATMEL studio 7.0
+2. Open Project
+3. Select file **Advanced Stopwatch.atsln**
